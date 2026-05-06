@@ -1,0 +1,1 @@
+import{f as a,g as t,h as u,i as d,k as n,r as p,l as i}from"./index-DJibejGr.js";const f=()=>{const c=a(),o=t(u),s=t(d),e=t(n),r=o.length>0;return p.useEffect(()=>{!r&&!s&&c(i())},[c,r,s]),{products:o,isLoading:s,error:e}};export{f as u};
