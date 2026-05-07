@@ -1,1 +1,0 @@
-import{f as a,h as t,i as u,k as d,l as n,r as p,m as i}from"./index-C2I4X67c.js";const f=()=>{const c=a(),o=t(u),s=t(d),e=t(n),r=o.length>0;return p.useEffect(()=>{!r&&!s&&c(i())},[c,r,s]),{products:o,isLoading:s,error:e}};export{f as u};
